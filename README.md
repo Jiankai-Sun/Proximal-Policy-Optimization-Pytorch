@@ -1,8 +1,5 @@
 # Pytorch-DPPO
 
-## Acknowledge
-[alexis-jacq/Pytorch-DPPO](https://github.com/alexis-jacq/Pytorch-DPPO)
-
 ## Citation
 ```
 @article{DBLP:journals/corr/SchulmanWDRK17,
@@ -59,3 +56,6 @@ Progress of DPPO (4 agents) with InvertedPendulum-v1:
 The structure of this code is based on https://github.com/ikostrikov/pytorch-a3c.
 
 Hyperparameters and loss computation has been taken from https://github.com/openai/baselines
+
+[alexis-jacq/Pytorch-DPPO](https://github.com/alexis-jacq/Pytorch-DPPO)
+
